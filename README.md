@@ -16,6 +16,6 @@ npm run build
 
 ```
 
-[配合后端django-blog](https://github.com/xuqichuang/django-blog)
+配合后端 [django-blog](https://github.com/xuqichuang/django-blog)
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
